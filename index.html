@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Go to downbelow</title>
+        <style>
+            /* Simp CSS - small, clean, centered layout */
+            :root{
+                --bg-1: #f6f8ff;
+                --bg-2: #eef6ff;
+                --card: #ffffff;
+                --accent-1: #5b8cff;
+                --accent-2: #3a6be0;
+                --muted: #556070;
+            }
+
+            html,body{
+                height:100%;
+            }
+
+            body{
+                margin:0;
+                font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+                background: linear-gradient(135deg,var(--bg-1),var(--bg-2));
+                display:flex;
+                align-items:center;
+                justify-content:center;
+                color:var(--muted);
+                -webkit-font-smoothing:antialiased;
+                -moz-osx-font-smoothing:grayscale;
+                padding:24px;
+            }
+
+            .card{
+                background:var(--card);
+                padding:28px 32px;
+                border-radius:14px;
+                box-shadow:0 6px 20px rgba(34,50,80,0.08);
+                text-align:center;
+                min-width:220px;
+                max-width:420px;
+                width:100%;
+            }
+
+            h1{
+                margin:0 0 12px 0;
+                font-size:18px;
+                color:#1f2a44;
+            }
+
+            p.lead{margin:0 0 18px 0; font-size:13px; color:var(--muted)}
+
+            form{display:inline-block; width:100%}
+
+            button{
+                display:inline-block;
+                width:100%;
+                padding:12px 16px;
+                font-size:15px;
+                border-radius:10px;
+                border:0;
+                color:white;
+                background:linear-gradient(90deg,var(--accent-1),var(--accent-2));
+                box-shadow:0 6px 18px rgba(58,107,224,0.18);
+                cursor:pointer;
+                transition:transform .12s ease, box-shadow .12s ease, opacity .12s ease;
+            }
+
+            button:active{transform:translateY(1px)}
+            button:hover{opacity:.98; box-shadow:0 10px 28px rgba(58,107,224,0.18)}
+
+            @media (prefers-color-scheme: dark){
+                :root{--card:#0f1720; --bg-1:#061226; --bg-2:#07182a; --muted:#9aa6b4}
+                body{color:var(--muted)}
+                .card{box-shadow:0 8px 30px rgba(2,6,23,0.7)}
+            }
+        </style>
+</head>
+<body>
+        <div class="card">
+            <form action="/downbelow.html" method="get">
+                <button type="submit">Open Down Below</button>
+            </form>
+        </div>
+</body>
+</html>
