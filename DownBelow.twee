@@ -1,0 +1,271 @@
+:: StoryTitle
+Down Below
+
+
+:: StoryData
+{
+  "ifid": "9825A2D9-D073-498D-AC62-BCE408B288CB",
+  "format": "SugarCube",
+  "format-version": "2.37.3",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: End1 {"position":"750,625","size":"100,100"}
+The air around <<Riko>> started to move again. Her eyes blinked. She gasped.  
+“<<Reg>>?! What’s happening?”  
+
+He smiled faintly. “I think… I fixed it.”  
+
+She tried to reach him, but his hand went through hers.  
+“You’ll be fine,” he said.  
+
+She touched one of the glowing flowers on the ground.  
+“I’ll find you. No matter how deep I have to go.”  
+
+The light faded. She walked into the next tunnel alone.
+
+
+:: EscapeUp {"position":"1000,625","size":"100,100"}
+They tried to climb upward. The sunlight was faint above.  
+The tunnel shook beneath their feet, sending pebbles tumbling down. <<Riko>> gripped the rocks tightly, heart pounding.  
+“<<Reg>>! Hold on!” she shouted, but there was no answer.  
+
+The tunnel narrowed, forcing her to squeeze through jagged stones. Dust filled the air, making it hard to breathe. Every step was a struggle; she slipped once, catching herself just in time.  
+
+Finally, <<Riko>> reached the top. The fresh air hit her face, but <<Reg>> wasn’t there. A faint voice called:  
+> “Go. Don’t look back.”  
+
+Tears stung her eyes. “I can’t… I can’t leave him,” she whispered.  
+She glanced down at the dark tunnel below, imagining <<Reg>> struggling, or worse.  
+
+Then she swallowed her fear, feeling a strange resolve. She had to move forward, even alone. With one last look at the opening, she climbed out, sunlight warming her face.
+
+
+:: FollowCreature {"position":"1125,500","size":"100,100"}
+The glowing creature led them deeper into the cave.  
+They passed glowing mushrooms, their soft light casting long shadows. Underground streams murmured quietly beside them, reflecting the strange colors of the walls.  
+
+<<Riko>> whispered, “Do you think it’s safe?”  
+<<Reg>> shook his head. “I don’t know… but it hasn’t hurt us yet.”  
+
+The creature stopped at a shimmering wall that seemed almost alive, reflecting their faces like water. It tilted its head, then vanished silently.  
+<<Reg>> and <<Riko>> exchanged nervous glances. “What now?” <<Riko>> asked.  
+
+The walls pulsed faintly, and a breeze stirred from somewhere unseen. Small glowing shapes darted in the shadows — maybe fish, maybe something else. The cave felt alive, watching them.  
+
+<<Reg>> took a deep breath. “We move forward. Together.”  
+They stepped closer to the shimmering wall, unsure if it was a door, a mirror, or a trap.
+
+
+:: FollowVoice {"position":"875,625","size":"100,100"}
+They followed the voice into the mist.  
+A shadow waited at the end, smiling.  
+<<Riko>> held <<Reg>>’s hand tight.  
+“Should we trust it?” she asked.  
+
+[[> Step forward->OpenEnding1]]
+[[> Turn back->OpenEnding2]]
+
+
+:: HideRocks {"position":"1000,500","size":"100,100"}
+They hid behind the rocks. Something passed by — tall, thin, with glowing eyes.  
+<<Reg>> whispered, “It’s gone.”  
+<<Riko>> shook her head. “No. It’s waiting.”  
+
+The ground cracked. They fell into darkness. When they woke, they were in a quiet cave with faint lights on the walls.  
+A small glowing creature climbed out from a flower.  
+
+[[> Follow the creature->FollowCreature]]
+[[> Stay and rest->RestCave]]
+
+
+:: OpenEnding1 {"position":"750,750","size":"100,100"}
+<<Reg>> and <<Riko>> stepped forward into the mist, holding each other’s hands tight.  
+The cave walls glowed faintly, as if alive, and the soft voice whispered again:  
+> “This way… you must continue.”
+
+Every step felt heavier than the last. The mist made it hard to see, but they didn’t stop. <<Riko>>’s heart pounded, and <<Reg>> could feel hers through her grip.  
+
+They passed strange glowing plants, some moving slightly as if breathing. <<Riko>> whispered, “Do you think anyone has ever come here before?”  
+<<Reg>> shook his head. “I don’t know… maybe we’re the first.”  
+
+Suddenly, the tunnel opened into a huge cavern. Water fell from the ceiling, sparkling in pale blue light. The sound of it echoed everywhere, making them feel both tiny and scared.  
+
+“Look!” <<Riko>> pointed at a platform in the center, floating above the water. A small glowing orb hovered above it.  
+<<Reg>> swallowed. “That must be the thing calling us.”
+
+They climbed carefully, trying not to slip on wet stone. When they reached the platform, the orb pulsed, and a warmth spread through their bodies. <<Riko>>’s hand tightened around <<Reg>>’s.  
+“Do we touch it?” she asked quietly.  
+
+<<Reg>> nodded slowly. “Together.”  
+
+They reached out. The orb’s warmth flowed into them, making their skin tingle. Time seemed to slow. The cavern shivered around them, but they felt calm — like they had finally found a safe place.  
+
+Then the voice spoke again, soft but firm:  
+> “The choice is yours. Stay here, or go beyond.”  
+
+<<Riko>> looked at <<Reg>>. “If we stay, we’ll be safe… but I feel like something waits for us further.”  
+<<Reg>> hesitated. “I don’t know if we’re ready… but I trust you.”  
+
+They stepped forward together. The orb lifted them gently into the air. The cavern stretched and twisted around them, glowing light reflecting on the water like stars in the sky.  
+
+<<Riko>> laughed softly, nervous but happy. “It’s… beautiful.”  
+<<Reg>> smiled, feeling the same wonder.  
+
+The mist swallowed them completely, and the last thing they saw were the tiny glowing flowers on the platform below, fading slowly.
+
+
+:: OpenEnding2 {"position":"1000,750","size":"100,100"}
+They turned back, deciding the voice might be a trap. The mist thickened, and the soft whispers grew louder, almost angry.  
+<<Riko>> gripped <<Reg>>’s arm. “Are we making a mistake?”  
+<<Reg>> shook his head. “Maybe… but at least we’ll choose our path.”
+
+The tunnel twisted and narrowed. The glow faded, and the sound of dripping water became louder. Every shadow looked like it could move, but nothing did.  
+
+Suddenly, the floor cracked beneath them. <<Riko>> screamed. <<Reg>> grabbed her, pulling her back, but the stone fell away and a small hole opened in the wall. It led to another passage, dark and silent.  
+
+They stepped through carefully. The passage sloped downward, the air colder here. <<Riko>> shivered. “It feels… alive,” she whispered.  
+
+<<Reg>> nodded. “We just have to keep going.”  
+
+After what felt like hours, they reached a huge chamber. Stalactites hung like jagged teeth. At the center, a pool of glowing water reflected them both. <<Riko>> approached it and touched the surface. Ripples spread, and in them, she saw faint images of places above — sunlight, forests, rivers.  
+
+“This… is what we’re missing?” she asked.  
+<<Reg>> knelt beside her. “Maybe. But maybe it’s a warning too.”  
+
+The water shimmered and then calmed. The chamber was silent except for their breathing. <<Riko>> looked at <<Reg>>. “We can’t stop here forever. We have to move.”  
+
+<<Reg>> nodded. They held hands and walked deeper into the darkness, their own steps the only sound.  
+
+The faint glow of the water faded behind them, leaving the chamber empty and silent.
+
+
+:: RestCave {"position":"1125,625","size":"100,100"}
+They sat on the floor. The cave was quiet, the only sound their breathing and the soft hum of glowing flowers.  
+<<Riko>> touched one of the flowers. “Maybe it’s safe… for now,” she whispered.  
+
+<<Reg>> nodded. “We can rest a bit. But we can’t stay forever.”  
+
+She looked around the cave, noticing tiny creatures moving in the shadows, glowing softly. “Do you think anyone has ever been here before?”  
+
+<<Reg>> shook his head. “If they did… they didn’t leave any traces we can see.”  
+
+They shared a small smile. Even in the darkness, they found comfort in each other.  
+<<Riko>> leaned back, letting the soft glow wash over her face. “I almost forgot how peaceful it can feel… even down here.”  
+
+<<Reg>> sighed, resting his metal arm across his knees. “Peace… but only for a moment. We have to keep going eventually.”  
+
+Outside the circle of glowing flowers, the cave seemed darker, deeper, unknown. Their rest ended not with fear, but with quiet resolve.
+
+
+:: Start {"position":"875,375","size":"100,100"}
+<<Reg>> was running. His steps echoed through the tunnel, mixed with <<Riko>>’s quick breathing behind him. The air felt heavy and warm, and something was roaring far away. He didn’t know what it was. He didn’t want to find out.
+
+“Keep going!” <<Riko>> shouted. Her voice cracked on the last word.  
+“I’m trying!” he said, his metal arm shaking as he pulled her along.
+
+The light from his hand flickered weakly, and the walls around them looked alive. Rocks fell from the ceiling, one almost hitting his shoulder.
+
+Then, the tunnel split into three paths.  
+
+<<Riko>> stopped, panting. “Which way?”  
+<<Reg>> looked around helplessly. “They all look the same!”
+
+The ground trembled again. Dust rained down. The roar came closer.  
+
+<<Riko>> didn’t wait. “Middle one!” she said, and they ran together.
+
+After a few seconds, the sound behind them stopped. The ground was still. Only silence.  
+
+The new cave opened into a huge room. A soft blue glow floated in the middle. It looked like a star trapped underground.  
+
+“What is that?” <<Riko>> whispered.  
+
+<<Reg>> stepped closer. “Maybe… something that can help us?”  
+She shook her head. “Or something that kills us.”
+
+He smiled a little. “Let’s find out.”
+
+[[> Touch the light->TouchLight]]
+[[> Stay back and watch->StayBack]]
+[[> Hide behind the rocks->HideRocks]]
+
+
+:: StayBack {"position":"875,500","size":"100,100"}
+<<Reg>> pulled his hand back. “No. It’s too strange.”  
+<<Riko>> nodded. “Yeah… maybe it’s dangerous.”
+
+The light floated closer to them. A soft voice came from it:  
+> “Go deeper. It’s waiting.”  
+
+“Deeper?” <<Riko>> said quietly. “What’s waiting?”  
+The light faded, leaving only a soft wind.  
+
+[[> Follow the voice->FollowVoice]]
+[[> Turn back->EscapeUp]]
+
+
+:: TouchLight {"position":"750,500","size":"100,100"}
+The moment his fingers touched the light, it spread up his arm like cold fire. His chest hurt, like something was trying to crawl inside.
+
+“<<Reg>>!” <<Riko>> screamed. She grabbed his shoulder, but everything froze.  
+Literally froze.
+
+The only thing moving now was the light. It filled him with strange warmth. His heartbeat slowed and sped up at the same time.  
+
+Then a voice spoke inside his head:  
+> “The gate must open.”  
+
+<<Reg>> gasped. “Who said that?”  
+No one answered.  
+
+The voice came again:  
+> “You are the key.”  
+
+<<Reg>> looked at <<Riko>>. Her face was frozen. He reached out, but his hand passed through her.  
+
+The light pulsed once, circles of pale blue spread under him.  
+
+The voice said:  
+> “One must rise. One must stay.”
+
+He looked at <<Riko>> again. “If staying saves her… then I’ll stay.”  
+
+The light grew brighter, swallowing him. His body faded into glowing pieces of light.  
+
+[[> The Light Within->End1]]
+
+
+:: StoryScript [script]
+setup.colorLookup = {
+  Reg: '#ff6b6b',
+  Riko: '#1fdeb8'
+};
+
+for (const name in setup.colorLookup) {
+  const color = setup.colorLookup[name];
+
+  Macro.add(name, {
+    skipArgs: true,
+    handler() {
+      new Wikifier(this.output, `<span style="color:${color};font-weight:bold;">${name}</span>`);
+    }
+  });
+
+};
+
+// Load Google Font dynamically
+(function() {
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000';
+    document.head.appendChild(link);
+})();
+
+
+:: StoryStylesheet [stylesheet]
+body, #passages {
+    font-family: 'nunito', sans-serif;
+}
